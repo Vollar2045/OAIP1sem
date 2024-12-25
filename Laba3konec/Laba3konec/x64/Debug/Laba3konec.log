@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\vOLLART\source\repos\Laba3konec\Laba3konec\main.cpp(194,11): warning C4566: символ, представленный универсальным именем символа "\u2219", невозможно представить в текущей кодовой странице (1251)
+C:\Users\vOLLART\source\repos\Laba3konec\Laba3konec\main.cpp(195,11): warning C4566: символ, представленный универсальным именем символа "\u22EF", невозможно представить в текущей кодовой странице (1251)
+  Laba3konec.vcxproj -> C:\Users\vOLLART\source\repos\Laba3konec\x64\Debug\Laba3konec.exe
